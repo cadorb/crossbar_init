@@ -1,0 +1,4 @@
+.crossbar/*.priv
+.crossbar/*.pub
+.crossbar/*.pid
+*.pyc
