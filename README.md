@@ -3,6 +3,7 @@
 Requirements : <br>
 <br>
 python libs > requirements.txt<br>
+pip install -r requirements.txt<br>
 mariadb or mysql <br>
 <br>
 CREATE DATABASE crossbar;<br>
